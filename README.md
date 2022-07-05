@@ -5,4 +5,4 @@ Agustin Scanavino :chocolate_bar:
 
 # ***Consola y Gitbash***
 <sub>Me parece un tema muy útil xq a lo largo de la carrera profesional va a ser muy util</sub>
-![Esto es una imagen](https://myoctocat.com/assets/images/base-octocat.svg)
+![Imagen GitBash](https://img2.freepng.es/20180515/szw/kisspng-bash-git-computer-icons-installation-command-line-5afaca8a063267.8597770915263852900254.jpg)
