@@ -1,4 +1,4 @@
 Samuel Gomez:nerd_face: 
 Luis Cedeño:unicorn:
-Nagual Arias aa
+Nagual Arias :athletic_shoe:
 Agustin
